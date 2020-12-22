@@ -1,0 +1,7 @@
+{
+  "name": "hello-unity",
+  "version": "1.0.0",
+  "displayName": "Hello Unity",
+  "description": "A basic package for learning to create custom packages for Unity.",
+  "unity": "2019.4"
+}
